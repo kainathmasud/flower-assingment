@@ -32,3 +32,19 @@ header{
    justify-content: center;
    border-radius: 300px 300px 0px 0px;
 }
+.flower4{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+.Instagram{
+    text-align: center;
+}
+.lastflower{
+    display: flex;
+    justify-content: center;
+}
+.flower8{
+    display: flex;
+    justify-content: center;
+}
